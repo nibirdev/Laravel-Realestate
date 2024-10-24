@@ -1,2 +1,2 @@
-Real Estate Website
+Real Estate Website <br>
 This is a full-featured real estate website that includes separate dashboards for Admin, Agent, and User roles. The platform provides various functionalities, such as scheduling property tours, leaving comments, and managing listings. The Admin can manage users, properties, and agents, while Agents can list and manage properties, and Users can browse properties, schedule tours, and interact with listings. This website offers a comprehensive solution for managing real estate transactions.
